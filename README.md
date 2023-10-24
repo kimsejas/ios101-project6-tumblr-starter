@@ -22,6 +22,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
+https://www.loom.com/share/6e6c911a4a624e44b4db861d2eeec959?sid=85cf33e1-d66a-4b1a-a5d5-29cfd45668a8
 
 ## License
 
